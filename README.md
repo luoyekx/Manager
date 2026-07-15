@@ -4,6 +4,11 @@
 
 ## 声明：本插件由 AI 辅助开发，功能可用，但不保证没有 Bug，也不保证好用。使用前请自行备份重要数据，作者不承担因使用本插件造成的任何损失。
 
+## 界面预览
+<img width="1290" height="2217" alt="IMG_5497" src="https://github.com/user-attachments/assets/44477099-c9a0-46f1-b16f-6f22c03b854c" />
+<img width="1290" height="2217" alt="IMG_5498" src="https://github.com/user-attachments/assets/bd9df584-6445-4995-b1e9-846bd085830c" />
+
+
 ## 功能
 
 - **在线上传安装** — 上传 ZIP 包直接安装插件或主题，支持拖拽、多文件同时上传
